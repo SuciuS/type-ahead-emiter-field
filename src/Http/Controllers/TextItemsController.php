@@ -1,6 +1,6 @@
 <?php
 
-namespace SuciuS\TextAutoComplete\Http\Controllers;
+namespace Suciuss\TypeAheadEmiterField\Http\Controllers;
 
 use Laravel\Nova\Http\Requests\NovaRequest;
 

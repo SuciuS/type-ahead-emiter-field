@@ -1,6 +1,6 @@
 <?php
 
-namespace SuciuS\TextAutoComplete;
+namespace Suciuss\TypeAheadEmiterField;
 
 use Laravel\Nova\Fields\Text;
 
