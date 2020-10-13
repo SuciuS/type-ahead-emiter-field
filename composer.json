@@ -1,0 +1,38 @@
+{
+    "name": "SuciuS/type-ahead-emiter-field",
+    "description": "A Laravel Nova text autocomplete field.",
+    "keywords": [
+        "laravel",
+        "nova",
+        "text",
+        "autocomplete",
+        "auto-complete"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Suciu Stefan",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gkermer\\TextAutoComplete\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "SuciuS\\type-ahead-emiter-field\\FieldServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
