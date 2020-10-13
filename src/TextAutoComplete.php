@@ -11,7 +11,7 @@ class TextAutoComplete extends Text
      *
      * @var string
      */
-    public $component = 'type-ahead-emiter-field';
+    public $component = 'text-auto-complete';
 
     /**
      * The items callback
