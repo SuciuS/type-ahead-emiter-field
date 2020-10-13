@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Gkermer\\TextAutoComplete\\": "src/"
+            "suciuss\\TypeAheadEmiterField\\": "src/"
         }
     },
     "extra": {
