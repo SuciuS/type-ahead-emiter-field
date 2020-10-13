@@ -1,5 +1,5 @@
 {
-    "name": "SuciuS/type-ahead-emiter-field",
+    "name": "suciuss/type-ahead-emiter-field",
     "description": "A Laravel Nova text autocomplete field.",
     "keywords": [
         "laravel",
@@ -26,7 +26,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "SuciuS\\type-ahead-emiter-field\\FieldServiceProvider"
+                "suciuss\\type-ahead-emiter-field\\FieldServiceProvider"
             ]
         }
     },
